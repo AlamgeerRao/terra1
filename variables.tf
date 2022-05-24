@@ -1,8 +1,7 @@
 variable "mychoice" {
   default = {
       CreatedUsing = "Terraform"
-      CodeFile = "VisualCode"
-      GithubRepo = "terra1"
+      CodeFile = "VisualCode
   }
 }
 variable "location" {
