@@ -1,7 +1,7 @@
 variable "mychoice" {
   default = {
       CreatedUsing = "Terraform"
-      CodeFile = "VisualCod"
+      CodeFile = "VisSTEAK"
   }
 }
 variable "location" {
